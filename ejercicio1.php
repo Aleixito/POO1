@@ -1,8 +1,4 @@
-<html>
-<head>
-<title>POO</title>
-</head>
-<body>
+
 <?php
 class Employee {
     private $nombre;
@@ -30,5 +26,3 @@ $employee2 = new Employee("Eric", 6500);
 $employee2->InformacionEmpleado();
 
 ?>
-</body>
-</html>

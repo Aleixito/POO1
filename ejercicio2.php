@@ -1,8 +1,4 @@
-<html>
-<head>
-<title>POO</title>
-</head>
-<body>
+
 <?php
 
         abstract class Shape {
@@ -31,5 +27,3 @@
         }
 
 ?>
-</body>
-</html>
