@@ -19,7 +19,7 @@ class Employee {
         }
     }
 }
-
+?>
 $employee1 = new Employee("Aleix", 4000);
 $employee1->InformacionEmpleado();
 $employee2 = new Employee("Eric", 6500);
